@@ -1,8 +1,8 @@
 McMMO-PE
 =====
 
-A port of the Bukkit plugin mcMMO to PocketMine. http://dev.bukkit.org/bukkit-plugins/mcmmo/
-This plugin is not finished yet or in a useable state whatsoever.
+This Is A mcMMo plugin for pocketmine
+This plugin is not finished yet or in a useable state whatsoever. You can edit it.
 
 
 McMMO-PE Features
