@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/BurritoMan46/McMMO-PE-plugin-edit
+branches:
+- master
+projects:
+  McMMO-PE-plugin-edit:
+    path: ""
+...
